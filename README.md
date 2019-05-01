@@ -1,3 +1,3 @@
 # Spectrum-analyzer
 
-It is my homework project for Programming to parallel architectures course.
+This is my homework project for Programming to parallel architectures course.
